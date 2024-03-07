@@ -1,0 +1,16 @@
+{
+  "name": "your-drive-as-db",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "license": "GPLv3",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "google-auth-library": "^8.7.0",
+    "googleapis": "^112.0.0",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.191",
+    "@types/node": "^18.12.1"
+  }
+}
